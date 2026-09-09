@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Привет, я [Дмитрий Неудачин] Да, это моя настоящая фамилия 😄
 
-<!--
-**dvneudachin/dvneudachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 О себе
+[Почти 10 лет в нефтегазе: добыча, геологическое сопровождение бурения, ГТМ, разработка месторождений. Анализирую данные, чтобы оптимизировать процессы. У меня заикание, это научило меня лучше готовиться и говорить только по делу. Ставлю целью стать экспертом, чьи решения опираются на цифры, а не на громкие слова. 
 
-Here are some ideas to get you started:
+В настоящее время нахожусь в поиске карьерных возможностей в области ГРП.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Навыки и технологии
+
+| Категория | Технологии |
+|-----------|------------|
+| **Языки программирования** | Python |
+| **ПО ГРП** | Advanced GRP Model, Fracture Design Application, PhiPsi |
+| **Анализ данных** | Pandas, NumPy, SciPy, Statsmodels |
+| **Визуализация** | Matplotlib, Seaborn, Plotly |
+| **Машинное обучение** | Scikit-learn |
+| **Инструменты** | GitHub, Jupyter Notebook |
+
+
+---
+
+## 📫 Контакты
+
+- **Email:** [dvneudachin@gmail.com]
+
+
